@@ -1,1 +1,1 @@
-ScheletProiectPAOO
+Blind Hope: Java Platformer Game.
