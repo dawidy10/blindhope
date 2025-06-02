@@ -1,0 +1,14 @@
+empty,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty
+empty,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty
+empty,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty
+empty,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty
+empty,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty
+empty,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty,cactus,empty,empty
+empty,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty,sand,sand,empty,empty
+empty,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty
+empty,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty
+empty,empty,grass,empty,empty,empty,empty,cactus,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty
+sandBlock,sandBlock,sandBlock,empty,empty,empty,sandBlock,sandBlock,sandBlock,empty,empty,empty,empty,empty,empty,sandBlock,sandBlock,sandBlock,sandBlock,sandBlock
+sandBlock,sandBlock,sandBlock,sand,sand,sand,sandBlock,sandBlock,sandBlock,sandBlock,sandBlock,sandBlock,sandBlock,sandBlock,sandBlock,sandBlock,sandBlock,sandBlock,sandBlock,sandBlock
+sandBlock,sandBlock,sandBlock,sandBlock,sandBlock,sandBlock,sandBlock,sandBlock,sandBlock,sandBlock,sandBlock,sandBlock,sandBlock,sandBlock,sandBlock,sandBlock,sandBlock,sandBlock,sandBlock,sandBlock
+sandBlock,sandBlock,sandBlock,sandBlock,sandBlock,sandBlock,sandBlock,sandBlock,sandBlock,sandBlock,sandBlock,sandBlock,sandBlock,sandBlock,sandBlock,sandBlock,sandBlock,sandBlock,sandBlock,sandBlock
